@@ -98,9 +98,15 @@ Open the .ipnyb files and run them.
 ## Github Structure
 
 ├── Extra Outside Analysis/
-│ └── (additional exploration for analysis)
+
+│   └── (additional exploration for analysis)
+
 ├── Models/
-│ └── (machine learning models and related code)
+
+│   └── (machine learning models and related code)
+
 ├── Project Assignments/
-│ └── (main notebooks, analysis, and required project assignments)
-├── README.md
+
+│   └── (main notebooks, analysis, and required project assignments)
+
+└── README.md
