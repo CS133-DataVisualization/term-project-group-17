@@ -36,7 +36,7 @@ The goal is to combine data visualization and machine learning to generate actio
 - Total Amount Reimbursed
 - Medicaid Amount Reimbursed
 
-Note: Some values are suppressed or missing due to privacy protections and were filtered during preprocessing.
+Note: Some values are suppressed or missing and were filtered during preprocessing.
 
 ---
 
@@ -48,30 +48,6 @@ Steps performed:
 - Converted numeric columns to appropriate formats  
 - Aggregated data by drug and state  
 - Created derived features (e.g., spending buckets, volume categories)
-
----
-
-## Analysis & Visualizations
-
-### 1. Top Drugs by Volume (Interactive)
-- Identifies most prescribed drugs across all states  
-- Helps understand demand patterns  
-
-### 2. Top Drugs by Spending (Interactive)
-- Shows drugs with highest total reimbursement  
-- Highlights financial burden on Medicaid  
-
-### 3. Prescription Distribution Across States
-- Bar chart showing proportion of prescriptions per state  
-- Reveals geographic differences in drug usage  
-
-### 4. Spending Buckets Visualization
-- Drugs grouped into:
-  - 0–500M  
-  - 500M–1B  
-  - 1B–1.5B  
-  - 1.5B+  
-- Helps compare cost tiers visually  
 
 ---
 
