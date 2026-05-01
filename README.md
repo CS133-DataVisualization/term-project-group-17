@@ -109,4 +109,6 @@ Open the .ipnyb files and run them.
 
 │   └── (main notebooks, analysis, and required project assignments)
 
+├── FinalReport/
+
 └── README.md
