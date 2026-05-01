@@ -60,17 +60,14 @@ We built a model to classify drugs into:
 - Low Coverage
 
 ### Model Used:
-- Decision Tree Classifier  
+- Decision Tree Classifier
+- Logistic Regression
+- Random Forest
 
-### Features:
-- Number of prescriptions  
-- Units reimbursed  
-- Total reimbursement  
-
-### Results:
+### Best Results:
 - Accuracy: ~95%  
 - F1 Score: ~0.97  
-- F1 (Low Coverage): ~0.80  
+- F1 (Low Coverage): ~0.81  
 
 ### Key Insight:
 The model performs well overall but highlights class imbalance, with lower performance on minority classes.
