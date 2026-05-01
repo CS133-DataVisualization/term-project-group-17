@@ -57,7 +57,7 @@ Steps performed:
 
 We built a model to classify drugs into:
 - High Coverage
-- Low Coverage
+- Low/Medium Coverage
 
 ### Model Used:
 - Decision Tree Classifier
